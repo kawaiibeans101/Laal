@@ -1,5 +1,5 @@
 nav{
-  background: url(/images/redback.jpg);
+  background: url(redback.jpg);
 }
 ul{
   list-style: none;
@@ -39,7 +39,7 @@ body{
   width:30%;
   height: 30%;
   padding:10px;
-  background-image: url(/images/backdrop.jpg);
+  background-image: url(backdrop.jpg);
   border: 5px solid black;
   background-size: cover;
   backdrop-filter: blur(2px);
